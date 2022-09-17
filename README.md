@@ -158,6 +158,10 @@
 
 Frontend Interview Handbook: <https://www.frontendinterviewhandbook.com/introduction/>
 
+### Contribution
+
+Feel free to add a new branch and contribute
+
 ### Author
 
 [**Teshane Crawford**](https://github.com/TeshaneCrawford)
